@@ -200,18 +200,23 @@ margin-bottom: 40px;
 .section1{
     display:flex;
     justify-content: space-between;
-    margin-top: 20px;
+    margin-top: 10px;
     border-top: 1px dotted black;
     margin-left: 30px;
 }
 .placeswework{
-
+ border-top: 1px dotted black;
+ border-bottom: 1px dotted ;
+}
+.collaboration{
+    border-top: 1px dotted black;
+    border-bottom: 1px dotted ;
 }
 .section2{
     display:flex;
     justify-content: space-between;
-    margin-top: 20px;
-    border-top: 1px dotted black;
+    margin-top: 10px;
+    /* border-top: 1px dotted black; */
     margin-left: 30px;
 }
 .strategyimage{
@@ -223,14 +228,15 @@ margin-bottom: 40px;
     margin-top: 30px;
     margin-bottom: 20px;
 }
-.button{
+button{margin-bottom: 25px;
     margin-top: 10px;
     border-radius: 6px;
+    color:white;
+    display:flex;
+    text-align: center;
+    text-decoration: none;
 }
 .pwwimage{
     margin-top: 20px;
     margin-bottom: 20px;
-}
-button{
-    margin-top: 20px;
 }

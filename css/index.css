@@ -202,12 +202,14 @@ margin-bottom: 40px;
     justify-content: space-between;
     margin-top: 20px;
     border-top: 1px dotted black;
+    margin-left: 30px;
 }
 .section2{
     display:flex;
     justify-content: space-between;
     margin-top: 20px;
     border-top: 1px dotted black;
+    margin-left: 30px;
 }
 .strategyimage{
     margin-top: 20px;
@@ -217,4 +219,8 @@ margin-bottom: 40px;
 .button{
     margin-top: 10px;
     radius:5px;
+}
+.pwwimage{
+    margin-top: 20px;
+    margin-bottom: 20px;
 }

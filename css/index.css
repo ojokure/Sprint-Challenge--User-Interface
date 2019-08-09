@@ -69,6 +69,7 @@ p {
 .container {
     width: 800px;
     margin: 0 auto;
+    background:
 }
 
 .top-content {
@@ -142,5 +143,84 @@ footer nav {
 
 footer nav a {
     color: white;
-    text-decoration: none;
+    text-decoration: none;}
+.nav{
+    display:flex;
+    justify-content:space-between;
+    width:95%;
+    margin-bottom: 50px
+}
+.nav-item{
+     text-decoration:none;
+    color:grey;
+    margin-top: 30px;
+    
+}
+.jumbo{
+margin-left: 20px;
+margin-bottom: 40px;
+}
+.lambdablack{
+    margin-left: 20px;
+}
+#box1{
+    background:teal;
+}
+#box2{
+    background:gold;
+
+}
+#box3{
+    background:cadetblue;
+}
+#box4{
+    background:coral;
+}
+#box5{
+    background:crimson;
+}
+#box6{
+    background:forestgreen;
+}
+#box7{
+    background:darkorchid;
+}
+#box8{
+    background:hotpink;
+}
+#box9{
+    background:indigo;
+}
+#box10{
+    background:dodgerblue;
+}
+.about{
+    margin-left: 35px;
+}
+.section1{
+    display:flex;
+    justify-content: space-between;
+    margin-top: 20px;
+    border-top: 1px dotted black;
+    margin-left: 30px;
+}
+.section2{
+    display:flex;
+    justify-content: space-between;
+    margin-top: 20px;
+    border-top: 1px dotted black;
+    margin-left: 30px;
+}
+.strategyimage{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.button{
+    margin-top: 10px;
+    radius:5px;
+}
+.pwwimage{
+    margin-top: 20px;
+    margin-bottom: 20px;
 }

@@ -69,6 +69,7 @@ p {
 .container {
     width: 800px;
     margin: 0 auto;
+    background:
 }
 
 .top-content {
@@ -142,5 +143,21 @@ footer nav {
 
 footer nav a {
     color: white;
-    text-decoration: none;
+    text-decoration: none;}
+.nav{
+    display:flex;
+    justify-content:space-between;
+    width:95%;
+    margin-bottom: 50px
+}
+.nav-item{
+     text-decoration:none;
+    color:ash;
+    
+}
+.jumbo{
+margin-left: 20px;
+}
+.lambdablack{
+    margin-left: 20px;
 }

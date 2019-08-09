@@ -194,5 +194,27 @@ margin-bottom: 40px;
 #box10{
     background:dodgerblue;
 }
+.about{
+    margin-left: 35px;
+}
+.section1{
+    display:flex;
+    justify-content: space-between;
+    margin-top: 20px;
+    border-top: 1px dotted black;
+}
+.section2{
+    display:flex;
+    justify-content: space-between;
+    margin-top: 20px;
+    border-top: 1px dotted black;
+}
+.strategyimage{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
 
-
+.button{
+    margin-top: 10px;
+    radius:5px;
+}

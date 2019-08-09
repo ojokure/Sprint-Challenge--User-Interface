@@ -152,12 +152,47 @@ footer nav a {
 }
 .nav-item{
      text-decoration:none;
-    color:ash;
+    color:grey;
+    margin-top: 30px;
     
 }
 .jumbo{
 margin-left: 20px;
+margin-bottom: 40px;
 }
 .lambdablack{
     margin-left: 20px;
 }
+#box1{
+    background:teal;
+}
+#box2{
+    background:gold;
+
+}
+#box3{
+    background:cadetblue;
+}
+#box4{
+    background:coral;
+}
+#box5{
+    background:crimson;
+}
+#box6{
+    background:forestgreen;
+}
+#box7{
+    background:darkorchid;
+}
+#box8{
+    background:hotpink;
+}
+#box9{
+    background:indigo;
+}
+#box10{
+    background:dodgerblue;
+}
+
+
